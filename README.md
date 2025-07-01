@@ -16,19 +16,19 @@ I'm a **Senior IP Network Architect** with over 6 years of hands-on experience i
 
 ## 🚀 Featured Projects
 
-### 🧠 [AI Network Assistant](https://github.com/okan1888/ai-network-assistant)
-> GPT-powered assistant that analyzes router logs and helps troubleshoot network issues via FastAPI backend.
+### 🧠 [ARCH Network Controller](https://github.com/okan1888/arch-network-controller)
+> ARCH IP Network Controller is a Network service and Configuration Manager using gNMI protocol providing basic APIs for remote manipulation.
 
-- 🔍 GPT-4 log analysis
+- 🔍 gNMI
 - 🛠 FastAPI, Python, Regex
 - 📡 Ideal for NOC and field engineers
 
 ---
 
-### 🛠 [Regex Replace CLI Tool](https://github.com/okan1888/regex-replace)
-> A simple but powerful Python CLI to apply regex replacements over files or directories.
+### 🛠 [AI EXpert Rule Engine](https://github.com/okan1888/ILOG)
+> ILOG Expert Rule Engine Interaction showing sample use case on a Rule Engine interaction via ILOG Rules for incoming alarms.
 
-- 💡 Built for network log transformation
+- 💡 Built for NOC Engineers
 - ⚡ Fast, recursive, terminal-based
 
 ---
